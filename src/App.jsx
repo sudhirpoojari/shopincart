@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 
 import Header from './components/Header'
 
-const API_BASE = 'http://brahmisri.gt.tc/api'
+const API_BASE = 'https://brahmisri.gt.tc/api'
 
 const PLACEHOLDER = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect width="100%" height="100%" fill="%23f3f4f6"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="%23999" font-family="Arial, Helvetica, sans-serif" font-size="20">No Image</text></svg>'
 
